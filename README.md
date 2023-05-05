@@ -1,8 +1,8 @@
 ![](https://cdn.discordapp.com/emojis/923450577827033128.gif?size=48)![](https://cdn.discordapp.com/emojis/878774584294379530.gif?size=48)![](https://cdn.discordapp.com/emojis/923450566305280010.gif?size=48)
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9ADFB0&center=true&vCenter=true&width=200&height=25&lines=Hi%2C+I'm+MeoW" alt="Typing SVG" /></a>
-</h1>
+</p>
 
 <!---
 <h3 align="left">Languages and Tools:</h3>
