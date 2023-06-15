@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=10000&color=9ADFB0&center=true&vCenter=true&width=200&height=25&lines=Hi%2C+I'm+MeoW" alt="Typing SVG" /></a>
 </p>
 
-<!---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -116,7 +116,7 @@
     />
   </a>
 </p>
---->
+
 
 <!---
 MeoW-2020/MeoW-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
